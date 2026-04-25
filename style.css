@@ -82,12 +82,12 @@ h3 {
     font-size: 24px;
     line-height: 150%;
 }
-h3 a{
+h3-a{
     text-decoration: none;
     color: #111111;
     transition: color 0.5s cubic-bezier(0.04, 0.53, 0.99, 0.8);
 }
-h3 a:hover{
+h3-a:hover{
     color: #F4D04E;
 }
 p {
